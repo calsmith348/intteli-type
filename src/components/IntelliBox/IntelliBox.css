@@ -1,0 +1,10 @@
+div.DraftEditor-root {
+  border: 1px solid #000;
+  width: 300px;
+  align-self: center;
+}
+
+.suggestionsList {
+    width: 200px;
+    list-style-type: none;
+}

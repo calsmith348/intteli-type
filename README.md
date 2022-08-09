@@ -1,0 +1,1 @@
+# intteli-type
